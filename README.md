@@ -81,6 +81,7 @@ The project simulates a real-world retail analytics engagement — from raw tran
 
 <img src="Image/Screenshot 2026-08-03 144554.png" width="700"/> 
 
+
 ---
 
 
