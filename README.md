@@ -8,7 +8,7 @@ The project simulates a real-world retail analytics engagement — from raw tran
 ---
 
 ## 📂 Dataset
-**Source:** [Dunnhumby – The Complete Journey (Kaggle)](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey)
+**Source:**(https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data?utm_source=chatgpt.com&select=campaign_table.csv)
 
 **Files Used:**
 - `transaction_data.csv` — Household-level transaction log (2.5M+ rows)
@@ -39,7 +39,7 @@ The project simulates a real-world retail analytics engagement — from raw tran
 **Visuals:** Sales trend by quarter • Sales by department • National vs Private brand split • Product category treemap • Department performance matrix
 
 **Dashboard Preview**
-![Dashboard 1](Image/Screenshot 2026-08-03 144244.png)
+ <img src="Image/Screenshot 2026-08-03 144244.png" width="700"/>
 
 ---
 
