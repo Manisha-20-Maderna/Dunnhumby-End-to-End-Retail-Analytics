@@ -39,6 +39,7 @@ The project simulates a real-world retail analytics engagement — from raw tran
 **Visuals:** Sales trend by quarter • Sales by department • National vs Private brand split • Product category treemap • Department performance matrix
 
 **Dashboard Preview**
+
  <img src="Image/Screenshot 2026-08-03 144244.png" width="700"/>
 
 ---
@@ -51,7 +52,8 @@ The project simulates a real-world retail analytics engagement — from raw tran
 **Visuals:** Sales by household size • Homeownership distribution • Spend vs frequency scatter plot • Coupon redeemer vs non-redeemer comparison • Age × income sales matrix
 
 **Dashboard Preview**
-![Dashboard 2](Image/Screenshot 2026-08-03 144518.png)
+
+<img src="Image/Screenshot 2026-08-03 144518.png" width="700"/>
 
 ---
 
@@ -63,7 +65,8 @@ The project simulates a real-world retail analytics engagement — from raw tran
 **Visuals:** Redemption trend by quarter • Targeted-to-redeemed funnel • Campaign duration by type • Top campaigns by redemption rate table • Targeted vs redeemed households by campaign
 
 **Dashboard Preview**
-![Dashboard 3](Image/Screenshot 2026-08-03 144449.png)
+
+<img src="Image/Screenshot 2026-08-03 144449.png" width="700"/>
 
 ---
 
@@ -75,14 +78,16 @@ The project simulates a real-world retail analytics engagement — from raw tran
 **Visuals:** Display vs No Display sales • Mailer vs No Mailer sales • Top 10 stores by sales • Quantity vs sales value scatter plot • Store × quarter sales heatmap
 
 **Dashboard Preview**
-![Dashboard 4](Images/Screenshot 2026-08-03 144554.png)
+
+<img src="Images/Screenshot 2026-08-03 144554.png" width="700"/>
 
 > **Note:** Display/Mailer sales comparisons reflect product-level promotional activity aggregated across all stores and weeks, due to a many-to-many relationship constraint between the causal and transaction datasets at their native grain. Results should be interpreted as directional indicators of promotional reach rather than precise incremental sales lift.
 
 ---
 
 # 📊 Key Insights
-![Key Insights](Image/Screenshot 2026-08-03 144625.png)
+
+<img src="Image/Screenshot 2026-08-03 144625.png" width="700"/>
 
 - 💰 Generated **$8.06M** in sales from **276K** transactions with an average basket value of **$29.14**
 - 🛒 **National Brands** contributed **72%** of total revenue, significantly outperforming Private Brands
@@ -97,7 +102,8 @@ The project simulates a real-world retail analytics engagement — from raw tran
 The project integrates **8 interconnected tables** using relationships built on **PRODUCT_ID, household_key, CAMPAIGN, and COUPON_UPC**, forming a star-schema-style model that supports cross-filtering across all four dashboards.
 
 **Data Model Preview**
-![Data Model](Image/Screenshot 2026-08-03 152042.png)
+
+<img src="Image/Screenshot 2026-08-03 152042.png" width="700"/>
 
 ---
 
