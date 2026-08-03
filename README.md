@@ -79,12 +79,10 @@ The project simulates a real-world retail analytics engagement — from raw tran
 
 **Dashboard Preview**
 
-<img src="Images/Screenshot 2026-08-03 144554.png" width="700"/> 
+<img src="Image/Screenshot 2026-08-03 144554.png" width="700"/> 
 
 ---
-> **Note:** Display/Mailer sales comparisons reflect product-level promotional activity aggregated across all stores and weeks, due to a many-to-many relationship constraint between the causal and transaction datasets at their native grain. Results should be interpreted as directional indicators of promotional reach rather than precise incremental sales lift.
 
----
 
 # 📊 Key Insights
 
